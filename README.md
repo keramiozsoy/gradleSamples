@@ -1,11 +1,11 @@
 # gradleSamples
 Gradle Sample Projects
 
-# for compile
+## for compile
 $ gradle build
 
-# for execute
+## for execute
 $ gradle run
 
-# for clean unnecessary files
+## for clean unnecessary files
 $ gradle clean
