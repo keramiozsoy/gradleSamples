@@ -2,10 +2,10 @@
 Gradle Sample Projects
 
 # for compile
-gradle build
+$ gradle build
 
 # for execute
-gradle run
+$ gradle run
 
 # for clean unnecessary files
-gradle clean
+$ gradle clean
